@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Juan 👋
 
-<!--
-**JuanGualim/JuanGualim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at Universidad del Valle de Guatemala,
+focused on **Backend Development, Databases, and Algorithms**.
 
-Here are some ideas to get you started:
+I enjoy building software, solving algorithmic problems, and continuously
+learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 Computer Science student at Universidad del Valle de Guatemala.
+- 🔧 Interested in Backend Development and Database Systems.
+- 🧠 I enjoy Algorithms, Data Structures and Problem Solving.
+- 🏆 ICPC National Finalist.
+- 👨‍🏫 Former Teaching Assistant for Algorithms and Basic Programming.
+- 🌱 Currently improving my knowledge of Backend Development and SQL Server.
+- 🐧 Linux user and enthusiast.
+
+## 🛠️ Tech Stack
+
+### Languages
+Python | Java | C++
+
+### Databases
+PostgreSQL | SQL Server | MySQL
+
+### Tools & Environment
+Git | GitHub | Docker | Linux
