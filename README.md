@@ -43,7 +43,7 @@ A full-stack enterprise management system designed to manage employees, attendan
 
 **Tech Stack:** `FastAPI` `PostgreSQL` `SQLAlchemy` `React` `Docker`
 
-[🔗 View Repository](TU_LINK_DEL_REPOSITORIO)
+[🔗 View Repository](https://github.com/Gotkissss/Proyecto-Software-Teleprogreso)
 
 ---
 
@@ -53,7 +53,7 @@ Web application for managing inventory, customers, sales, and business reports, 
 
 **Tech Stack:** `Node.js` `Express` `Sequelize` `MySQL` `React` `Tailwind CSS`
 
-[🔗 View Repository](TU_LINK_DEL_REPOSITORIO)
+[🔗 View Repository](https://github.com/JuanGualim/Proyecto_2_DB1)
 
 ---
 
@@ -63,4 +63,4 @@ Full-stack application for tracking TV series, episode progress, and personal ra
 
 **Tech Stack:** `Go` `REST API` `React`
 
-[⚙️ Backend Repository](TU_LINK_BACKEND) · [🖥️ Frontend Repository](TU_LINK_FRONTEND)
+[⚙️ Backend Repository](https://github.com/JuanGualim/Proyecto1_Web_backend) · [🖥️ Frontend Repository](https://github.com/JuanGualim/Proyecto1_Web_frontend)
