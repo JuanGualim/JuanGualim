@@ -26,3 +26,41 @@ PostgreSQL | SQL Server | MySQL
 
 ### Tools & Environment
 Git | GitHub | Docker | Linux
+
+## 🚀 Featured Projects
+
+### 🏢 Teleprogreso Management System
+
+A full-stack enterprise management system designed to manage employees, attendance, tasks, assets, inventory, and materials.
+
+**Key features:**
+- Employee and attendance management
+- Task assignment and tracking
+- Asset and inventory management
+- JWT authentication
+- Asynchronous backend architecture
+- Containerized development environment with Docker Compose
+
+**Tech Stack:** `FastAPI` `PostgreSQL` `SQLAlchemy` `React` `Docker`
+
+[🔗 View Repository](TU_LINK_DEL_REPOSITORIO)
+
+---
+
+### 📦 Inventory & Sales Management System
+
+Web application for managing inventory, customers, sales, and business reports, built with stored procedures and a layered architecture.
+
+**Tech Stack:** `Node.js` `Express` `Sequelize` `MySQL` `React` `Tailwind CSS`
+
+[🔗 View Repository](TU_LINK_DEL_REPOSITORIO)
+
+---
+
+### 🎬 Series Tracker
+
+Full-stack application for tracking TV series, episode progress, and personal ratings. The backend is developed in Go and exposed through a REST API, with a separate React frontend.
+
+**Tech Stack:** `Go` `REST API` `React`
+
+[⚙️ Backend Repository](TU_LINK_BACKEND) · [🖥️ Frontend Repository](TU_LINK_FRONTEND)
