@@ -22,7 +22,7 @@ learning new technologies.
 Python | Java | C++
 
 ### Databases
-PostgreSQL | SQL Server | MySQL
+PostgreSQL | MySQL
 
 ### Tools & Environment
 Git | GitHub | Docker | Linux
