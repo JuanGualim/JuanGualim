@@ -1,66 +1,110 @@
 # Hi, I'm Juan 👋
 
-I'm a Computer Science student at Universidad del Valle de Guatemala,
-focused on **Backend Development, Databases, and Algorithms**.
+I'm a **Computer Science student at Universidad del Valle de Guatemala**, focused on **Backend Development and Software Engineering**.
 
-I enjoy building software, solving algorithmic problems, and continuously
-learning new technologies.
+I enjoy designing backend systems, working with relational databases, and solving complex problems through software. My projects involve API development, data integrity, security, and system architecture.
+
+I'm also interested in exploring MLOps and AI-powered systems from a software engineering perspective.
 
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science student at Universidad del Valle de Guatemala.
-- 🔧 Interested in Backend Development and Database Systems.
-- 🧠 I enjoy Algorithms, Data Structures and Problem Solving.
-- 🏆 ICPC National Finalist.
-- 👨‍🏫 Former Teaching Assistant for Algorithms and Basic Programming.
-- 🌱 Currently improving my knowledge of Backend Development and SQL Server.
-- 🐧 Linux user and enthusiast.
+- 💻 Focused on Backend Development, Software Engineering, and Database Systems.
+- 🔧 Experienced in building REST APIs, transactional systems, and backend services.
+- 👨‍🏫 Teaching Assistant for Algorithms and Basic Programming.
+- 🏆 Two-time ICPC National Finalist qualifier (2025 & 2026).
+- 🧠 Interested in algorithms, data structures, system design, and problem solving.
+- 🐧 Linux enthusiast.
 
 ## 🛠️ Tech Stack
 
-### Languages
-Python | Java | C++
+**Languages**  
+`Python` `TypeScript` `Java` `C++` `SQL`
 
-### Databases
-PostgreSQL | MySQL
+**Backend & Frameworks**  
+`FastAPI` `SQLAlchemy` `Pydantic` `Next.js` `Prisma`
 
-### Tools & Environment
-Git | GitHub | Docker | Linux
+**Databases**  
+`PostgreSQL` `PostGIS` `MySQL` `Supabase`
+
+**Tools & Infrastructure**  
+`Git` `GitHub` `Docker` `Linux` `Railway`
+
+**Testing & Other Technologies**  
+`Pytest` `Vitest` `pgTAP` `MLflow` `pgvector`
 
 ## 🚀 Featured Projects
 
-### 🏢 Teleprogreso Management System
+### 🏢 Teleprogreso — Workforce Management System
 
-A full-stack enterprise management system designed to manage employees, attendance, tasks, assets, inventory, and materials.
+A workforce management platform designed to support field technicians, supervisors, and management through task coordination, attendance tracking, asset management, and operational reporting.
 
-**Key features:**
-- Employee and attendance management
-- Task assignment and tracking
-- Asset and inventory management
-- JWT authentication
-- Asynchronous backend architecture
-- Containerized development environment with Docker Compose
+**My contributions include:**
+- Developed REST APIs for tasks, attendance, inventory, assets, and reports using FastAPI.
+- Implemented geospatial queries with PostGIS for technician routing and location tracking.
+- Built automated operational alerts and reporting features.
+- Implemented tamper-evident audit logging, service-layer architecture, and automated tests.
 
-**Tech Stack:** `FastAPI` `PostgreSQL` `SQLAlchemy` `React` `Docker`
+**Tech Stack:** `Python` `FastAPI` `PostgreSQL` `PostGIS` `SQLAlchemy` `Alembic` `Docker`
 
 [🔗 View Repository](https://github.com/Gotkissss/Proyecto-Software-Teleprogreso)
 
 ---
 
-### 📦 Inventory & Sales Management System
+### 📦 StorePilot — Inventory & Business Management System
 
-Web application for managing inventory, customers, sales, and business reports, built with stored procedures and a layered architecture.
+An independently developed Progressive Web App designed to manage daily operations for a retail business, with a focus on data consistency, traceability, and secure business workflows.
 
-**Tech Stack:** `Node.js` `Express` `Sequelize` `MySQL` `React` `Tailwind CSS`
+**Key features:**
+- Inventory management using FIFO and historical stock movements.
+- Sales, daily cash reconciliation, purchases, and supplier accounts.
+- Transactional operations and auditable financial records.
+- Multi-tenant data isolation using PostgreSQL Row Level Security.
+- Automated tests for business rules and access control.
 
-[🔗 View Repository](https://github.com/JuanGualim/Proyecto_2_DB1)
+**Tech Stack:** `TypeScript` `React` `PostgreSQL` `Supabase` `Docker` `Vitest`
+
+[🔗 View Repository](https://github.com/JuanGualim/Almacen_El_Amigo_Web)
 
 ---
 
-### 🎬 Series Tracker
+### 🎓 AEUVGWEB — Student Association Platform
 
-Full-stack application for tracking TV series, episode progress, and personal ratings. The backend is developed in Go and exposed through a REST API, with a separate React frontend.
+A collaborative web platform developed for the Student Association at Universidad del Valle de Guatemala, providing centralized access to events, student organizations, and volunteer-hour records.
 
-**Tech Stack:** `Go` `REST API` `React`
+**My contributions include:**
+- Implemented authentication, institutional registration, session management, and password recovery.
+- Developed database schemas and migrations using Prisma.
+- Built administrative functionality for events, clubs, associations, and volunteer-hour tracking.
+- Contributed to application development, testing, and deployment integration.
 
-[⚙️ Backend Repository](https://github.com/JuanGualim/Proyecto1_Web_backend) · [🖥️ Frontend Repository](https://github.com/JuanGualim/Proyecto1_Web_frontend)
+**Tech Stack:** `TypeScript` `Next.js` `PostgreSQL` `Prisma` `Docker` `Railway`
+
+[🔗 View Repository](https://github.com/hmndz3/AEUVGWEB)
+
+---
+
+### ⚙️ MLOps Platform — Model Lifecycle & Prediction Serving
+
+An ongoing project focused on building reusable infrastructure for managing machine learning models, rather than developing a single prediction model.
+
+**Implemented capabilities:**
+- Experiment tracking and model versioning with MLflow.
+- Automated model promotion and rollback workflows.
+- Prediction serving through a containerized FastAPI service.
+- Model monitoring, data validation, and reproducible experiments.
+
+**Tech Stack:** `Python` `FastAPI` `PostgreSQL` `MLflow` `scikit-learn` `Docker`
+
+## 🔬 Other Projects
+
+**RAG & Multi-Agent Systems** — Retrieval-augmented question answering using PostgreSQL/pgvector, tool calling, agent orchestration, MCP, A2A, and automated evaluations.
+
+**Series Tracker** — REST API developed in Go for tracking TV series, episodes, and personal ratings.
+
+[🔗 Series Tracker Backend](https://github.com/JuanGualim/Proyecto1_Web_backend)
+
+## 📫 Connect With Me
+
+- **GitHub:** [JuanGualim](https://github.com/JuanGualim)
+- **LinkedIn:** [Juan Gabriel Gualim Molina](https://www.linkedin.com/in/juan-gabriel-gualim-molina/)
